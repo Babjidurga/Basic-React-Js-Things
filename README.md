@@ -1,4 +1,4 @@
-# Onchange-handler
+# React Js
 These are the basic things to start a ReactJs components 
 
 These are the step by step procedures and the basic requirements to perform the react operations 
